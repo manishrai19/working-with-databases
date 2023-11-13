@@ -1,0 +1,4 @@
+Sqllite does not use a server
+its uses CLI to open a local stored files
+Used as embeddd database
+used for prototyping
